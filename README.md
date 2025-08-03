@@ -1,6 +1,11 @@
 # Charlie	Jose D. Romero		Hack_PR_2
 
-**Alfa		Leonardo Ambrosioni	H-1**
-**Bravo		Kevin Perez		H-2**
-**Delta		Nathali Mago		H-4**
-**Echo		Gregory Uztariz		H-5**
+## Team 1
+
+### Integrantes
+
+	** Alfa		Leonard Ambrosioni	H-1 Alfa
+	** Bravo	Kevin Perez		H-2 Bravo
+	** Charlie	Jose Romero		H-3 Charlie
+ 	** Delta	Nathali Mago		H-4 Delta		
+  	** Echo		Gregory Uztariz		H-5 Echo
